@@ -1,2 +1,9 @@
-# smart-study-planner
-Added Smart Study Planner project with 80/20 logic and progress tracking
+# Smart Study Planner
+
+This is a Python project that helps students plan their studies.
+
+Features:
+- Study schedule generation
+- Priority-based planning (80/20 rule)
+- Progress tracking
+- Data saving using JSON
